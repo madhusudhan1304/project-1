@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  5 20:39:31 2021
 
-@author: Keyur Chaniyara
 """
 
 from flask import Flask, redirect, url_for,flash
